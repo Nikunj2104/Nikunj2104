@@ -1,16 +1,41 @@
-## Hi there 👋
+---
 
-<!--
-**Nikunj2104/Nikunj2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm **Nikunj Shah**  
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+I'm a results-driven **Full Stack Developer** with hands-on experience building dynamic and user-friendly web applications using **MongoDB, Express.js, React.js, and Node.js (MERN)**.  
+I love turning ideas into functional code and constantly push myself to learn new technologies that improve product efficiency and performance.
+
+---
+
+### 🌟 Projects & Work Highlights
+
+**AI-powered Website Generation**
+**Headless CMS**
+**Python Automation**
+**Conversational AI Chatbot**
+**Birthday Auto Post Generator**
+**Website Development**
+
+---
+
+### 📫 Connect With Me
+
+📧 **nikunjshah7778@gmail.com**  
+[LinkedIn](https://www.linkedin.com/in/nikunj-shah-in)
+
+---
+
+### 🎮 Fun Fact
+
+When I’m not coding, I’m usually clutching in **Valorant** (or trying to 😂).
+
+---
+
+⭐ *“Code. Play. Sleep.”*
+
+---
