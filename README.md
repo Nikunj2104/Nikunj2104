@@ -25,14 +25,14 @@ I love turning ideas into functional code and constantly push myself to learn ne
 
 ### 📫 Connect With Me
 
-📧 **nikunjshah7778@gmail.com**  
+[Email](nikunjshah7778@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/nikunj-shah-in)
 
 ---
 
 ### 🎮 Fun Fact
 
-When I’m not coding, I’m usually clutching in **Valorant** (or trying to 😂).
+I’m usually clutching in **Valorant** (or trying to 😂).
 
 ---
 
