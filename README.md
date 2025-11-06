@@ -61,6 +61,10 @@ I love turning ideas into functional code and constantly push myself to learn ne
 ### ⭐ Git Activity
 <img src="https://raw.githubusercontent.com/Nikunj2104/Nikunj2104/output/snake.svg" alt="Snake animation" />
 
+<!--
+[![Nikunj's Github Trophies](https://github-profile-trophy.vercel.app/?username=Nikunj2104&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Nikunj2104/readme-components)
+-->
+
 ---
 
 <!-- Social Media -->
@@ -90,3 +94,7 @@ I’m usually clutching in **Valorant** (or trying to 😂).
 ### ⭐ *Code. Play. Sleep.* ⭐
 
 ---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikunj2104.Nikunj2104&"  />
+</div>
